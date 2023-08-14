@@ -1,8 +1,8 @@
 ﻿# Accounting-Record-Management-System
 
-Accounting Record Management System is a sophisticated transaction maintenance system designed to efficiently record, manage, and retrieve financial transactions using a hashing file structure. This project demonstrates your ability to create a user-friendly graphical interface using Tkinter and implement a robust data storage mechanism using a hashing approach.
+Accounting Record Management System is a sophisticated transaction maintenance system designed to efficiently record, manage, and retrieve financial transactions using a hashing file structure. This project demonstrates creating a user-friendly graphical interface using Tkinter and implementing a robust data storage mechanism using a hashing approach.
 
-This project simulation showcases your ability to develop a functional and user-friendly Accounting Record Management System. By incorporating a hashing file structure, you demonstrate a solid understanding of data storage optimization and efficient retrieval. The utilization of Tkinter for the graphical interface helps in creating intuitive user experiences. 
+This project simulation the ability to develop a functional and user-friendly Accounting Record Management System. By incorporating a hashing file structure, we can  demonstrate a solid understanding of data storage optimization and efficient retrieval. The utilization of Tkinter for the graphical interface helps in creating intuitive user experiences. 
 
 ![Screenshot 2023-08-14 121441](https://github.com/sanjana459/Accounting-Record-Management-System/assets/85347345/9ed0fca3-defe-424f-ae42-9b71742cee9f)
 
